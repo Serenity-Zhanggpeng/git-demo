@@ -4,3 +4,4 @@
   yy 是复制 p是粘贴
   yy 是复制 p是粘贴 在打字的的时候按innsert  在执行命令的时候要按esc回退一下 
   按:wq 保存文件  vim hello.txt
+
