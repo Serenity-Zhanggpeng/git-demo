@@ -3,6 +3,9 @@
   yy 是复制 p是粘贴
   yy 是复制 p是粘贴
   yy 是复制 p是粘贴 在打字的的时候按innsert  在执行命令的时候要按esc回退一下 
-  按:wq 保存文件  vim hello.txt
-   git的语法和Linux一样的 
+  按:wq 保存文件  vim hello.txt 创建文件 或修改文件
+ git的语法和Linux一样的     
+ cat xx.txt 在git界面查看该文本类容   
+ 当修改完文件后 要添加到缓存区 git add   
+ 之后在可以提交  git commit了 但起个名字
 
