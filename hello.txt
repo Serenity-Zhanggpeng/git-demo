@@ -9,3 +9,5 @@
  当修改完文件后 要添加到缓存区 git add   
  之后在可以提交  git commit了 但起个名字
 
+  一般vim修改完后 都要添加栈存区 git add xx.txt 
+  后要 保存到本地库resposity git commit "+名字" xx.text 
