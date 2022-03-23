@@ -7,4 +7,7 @@
 
   一般vim修改完后 都要添加栈存区 git add xx.txt 
   后要 保存到本地库resposity git commit "+名字" xx.text
-  git 复制粘贴 ctrl+ins shift+ins 
+  git 复制粘贴 ctrl+ins shift+ins
+
+使用git log h或git log path/to/后 git一直停留在log模式,这时只需要按q 键即可退
+
